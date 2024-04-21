@@ -16,5 +16,5 @@ Core Competencies: Machine Learning, Data Modeling, Big Data Analysis, REST APIs
 
 ## Recent Projects
 
-### LOS ANGELES CRIME DATA: UNCOVERING TRENDS AND PATTERNS (https://github.com/Him24041999/Los-Angeles-Crime-Data-Analysis)
+### [LOS ANGELES CRIME DATA: UNCOVERING TRENDS AND PATTERNS](https://github.com/Him24041999/Los-Angeles-Crime-Data-Analysis)
 ### Adult-Income Prediction(https://github.com/Him24041999/Adult-Income-Prediction)
